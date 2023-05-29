@@ -14,6 +14,11 @@ npm run migrate
 npm run dev
 ```
 
+```
+admin user:
+admin@email.com
+senhaadmin
+```
 
 
 ## Foi utilizado:
