@@ -17,7 +17,7 @@ npm run dev
 ```
 admin user:
 admin@email.com
-senhaadmin
+adminsenha
 ```
 
 
